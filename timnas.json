@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 12,
+      "name": "NADEO ARGA WINATA",
+      "birth_date": "09 Maret 1997",
+      "Position": "Penjaga Gawang",
+      "International": "Indonesia",
+      "Team": "Borneo FC",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd697132f739/nadeo-320x_.png?token=2118c4ff6145dfe76f0ceaf27888324f"
+    },
+    {
+      "id": 2,
+      "no": 20,
+      "name": "OSVALDO ARDILES HAAY",
+      "birth_date": "17 Mei 1998",
+      "Position": " Pemain Depan",
+      "International": "Indonesia",
+      "Team": "Persebaya",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd698b68ea86/osvaldo-320x_.png?token=50993d2e1a5062df6d5847b78fe3f2bb"
+    },
+    {
+      "id": 3,
+      "no": 10,
+      "name": "EGY MAULANA VIKRI",
+      "birth_date": "07 Juli 2000",
+      "Position": "Pemain Tengah",
+      "International": "Indonesia",
+      "Team": "Lechia Gdansk (Polandia)",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd68e5fae299/egy-320x_.png?token=b86e5cc622c0dc365f7d0b1006278c93"
+    },
+    {
+      "id": 4,
+      "no": 17,
+      "name": "SYAHRIAN ABIMANYU",
+      "birth_date": "25 April 1999",
+      "Position": "Pemain Tengah",
+      "International": "Indonesia",
+      "Team": "Madura United",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd6980919354/abimanyu-320x_.png?token=b39cc06c7688ef7db1b1ba773be3a4ec"
+    },
+    {
+      "id": 5,
+      "no": 14,
+      "name": "ASNAWI MANGKUALAM BAHAR",
+      "birth_date": "04 Oktober 1999",
+      "Position": "Pemain Belakang",
+      "International": "Indonesia",
+      "Team": "PSM Makassar",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd68f0c7d57b/asnawi-320x_.png?token=6a91484782b37d644dac146e3acccd01"
+    },
+    {
+      "id": 6,
+      "no": 2,
+      "name": "ANDY SETYO NUGROHO",
+      "birth_date": "16 September 1997",
+      "Position": "Pemain Belakang",
+      "International": "Indonesia",
+      "Team": "PS TIRA Persikabo",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2019/Nov/21/5dd68e823bcf0/andy-320x_.png?token=025ff07235c3a0863df3789cf54654fa"
+    }
+  ]
+}
