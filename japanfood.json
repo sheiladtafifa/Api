@@ -1,0 +1,58 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "Sushi",
+      "description": "Sushi adalah sepotong kecil makanan laut mentah yang diletakkan di segumpal nasi yang telah diberi cuka. Bahan-bahan yang paling umum digunakan adalah tuna, cumi-cumi dan udang. Mentimun, asinan lobak dan dadar telur manis juga dihidangkan. ",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14195418/sushi600x400.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sashimi",
+      "description": "Sashimi adalah irisan ikan mentah yang dimakan dengan shoyu (sejenis kecap asin). ",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14195554/sashimi-e1507986085345.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tempura",
+      "description": "Tempura makanan yang di goreng dengan minyak goreng yang banyak, setelah dilapisi dengan campuran telur, air, dan tepung terigu. Di antara bahan-bahan yang digunakan adalah udang, ikan yang sedang musimnya dan sayur-sayuran.",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14195752/tempura-e1508237809174.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yakitori",
+      "description" : "Yakitori terbuat dari potongan kecil daging ayam, hati dan sayur-sayuran yang ditusukkan ke sebuah tusukan bambu dan dibakar di atas arang.",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/17181115/yakitori-e1507986299810-1-e1508238726673.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Miso",
+      "description" : "Miso adalah sup pokok yang disajikan bersamaan dengan hampir setiap makanan tradisional Jepang lainnya. Pembuatan sup miso cukup sederhana karena tinggal mencampurkan daging, sayur, dan rempah-rempah di dalam kuah.",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14200717/miso-e1507986498239.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Udon",
+      "description" : "Udon adalah salah satu jenis mi yang sudah dikenal di Jepang sejak dulu, dibuat dari tepung terigu dan berbentuk tebal serta agak lebar.",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14201205/Udon-e1508238816183.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Soba",
+      "description" : "Soba merupakan masakan mi tradisional Jepang yang dibuat dengan bahan utama tepung gandum",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14201339/Soba-e1507986870567.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sukiyaki",
+      "description" : "Sukiyaki disiapkan tepat di atas meja dengan memasak irisan tipis daging sapi bersama dengan berbagai sayuran, tahu dan mie yang berbentuk seperti soun.",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14201543/Sukiyaki-e1507987040142.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kaiseki Ryori",
+      "description" : "Kaiseki Ryori dianggap sebagai hidangan paling berkelas di Jepang. Hidangan ini sebagaian besar terdiri dari sayur-sayuran dan ikan dengan rumput laut dan jamur sebagai bumbu dasarnya dan dicirikan dengan cita rasa yang tinggi. ",
+      "image": "https://content.shopback.com/id/wp-content/uploads/2017/10/14201816/Kaiseki-e1507987141338.jpg"
+    }
+  ]
+}
